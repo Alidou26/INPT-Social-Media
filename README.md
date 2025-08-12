@@ -145,18 +145,18 @@
 
 ## Améliorations Futures<a name="future"></a>
 
-    -📱 **Version mobile native (React Native)**
+   1. 📱 **Version mobile native (React Native)**
 
--📚 **Intégration avec Moodle (ressources pédagogiques et Système de quizz )**
+   2. 📚 **Intégration avec Moodle (ressources pédagogiques et Système de quizz )**
 
--📅 **Calendrier académique partagé**
+   3. 📅 **Calendrier académique partagé**
 
--🔍 **Moteur de recherche avancé**
+   4. 🔍 **Moteur de recherche avancé**
 
--🤖 **Système de recommandation de contenu**
+   5. 🤖 **Système de recommandation de contenu**
 
--🛡️ **Renforcement de la sécurité (2FA)**
+   6. 🛡️ **Renforcement de la sécurité (2FA)**
 
--🤖 **Modération IA**(Détection automatique de contenu inapproprié)
+   7. 🤖 **Modération IA**(Détection automatique de contenu inapproprié)
 
 <div align="right"> <a href="#top">⬆ Retour en haut</a> </div>
