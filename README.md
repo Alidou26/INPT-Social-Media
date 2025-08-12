@@ -145,7 +145,7 @@
 
 ## Améliorations Futures<a name="future"></a>
 
--- 📱 **Version mobile native (React Native)**
+--📱 **Version mobile native (React Native)**
 
 -- 📚 **Intégration avec Moodle (ressources pédagogiques et Système de quizz )**
 
