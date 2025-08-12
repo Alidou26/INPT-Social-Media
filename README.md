@@ -111,3 +111,39 @@
 </div>
 
 ---
+
+
+
+<div align="right">
+  <a href="#top">⬆ Retour en haut</a>
+</div>
+
+---
+
+## Installation<a name="installation"></a>
+
+### Prérequis
+- XAMPP (Apache, MySQL, PHP)
+
+### Étapes d'installation
+1. **Cloner le dépôt**
+   ```bash
+   git clone https://github.com/Alidou26//INPT-Social-Media.git
+   cd INPT-Social-Media
+   ```
+   
+2. **Configurer la base de données**
+
+  - Importer inpt_sm.sql dans phpMyAdmin
+
+  - Configurer les accès dans BaseDeDonnees.php
+    
+
+ 3. **Démarrer le serveur**
+
+   - Lancer Apache et MySQL via XAMPP
+
+   - Accéder à http://localhost/est-social
+
+
+<div align="right"> <a href="#top">⬆ Retour en haut</a> </div>
