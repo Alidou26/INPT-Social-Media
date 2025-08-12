@@ -10,10 +10,10 @@
   <p>Plateforme sécurisée déployée sur Azure pour les étudiants de l'INPT Rabat</p>
 </div>
 
-# [Video Démonstration](https://drive.google.com/file/d/1p90X4RIdPl5Mh8kJD0l4WMPCKDOBiRJ4/view?usp=sharing)
+# [Video Démonstration](https://drive.google.com/file/d/1Hq3J-rs-3WbeB3U-_zJQT543qtU6Qk4J/view?usp=sharing)
 Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
 
-# [Vidéo Démo de la partie Azure](https://drive.google.com/file/d/1QCSiERZrSxnGDUfLB8nOgRnLRl5cOq8F/view?usp=sharing)
+# [Vidéo Démo de la partie Azure](https://drive.google.com/file/d/1HXfjf4zQNLJY7MM68mYP5deMRmBm1AKU/view?usp=sharing)
 Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
 
 ## Table des Matières
