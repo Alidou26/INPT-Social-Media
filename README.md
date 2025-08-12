@@ -82,7 +82,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="60" height="60" alt="jQuery">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript">
-  <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" width="60" height="60" alt="WebRTC">
+  <img src="https://habrastorage.org/webt/sj/cp/ns/sjcpnsa3rhy4uystxuguhu162pq.png" width="60" height="60" alt="WebRTC">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60" height="60" alt="Azure">
 </div>
 
@@ -90,7 +90,7 @@
 - **HTML** - Structure des pages
 - **CSS** - Styling et animations
 - **JavaScript** - Interactivité
-- **Bootstrap ** - Framework responsive
+- **Bootstrap** - Framework responsive
 - **jQuery** - Manipulation DOM et AJAX
 
 ### Backend
