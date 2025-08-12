@@ -10,16 +10,19 @@
   <p>Plateforme sécurisée déployée sur Azure pour les étudiants de l'INPT Rabat</p>
 </div>
 
+# [Video Démonstration](https://drive.google.com/file/d/1p90X4RIdPl5Mh8kJD0l4WMPCKDOBiRJ4/view?usp=sharing)
+Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
+
+# [Vidéo Démo de la partie Azure](https://drive.google.com/file/d/1QCSiERZrSxnGDUfLB8nOgRnLRl5cOq8F/view?usp=sharing)
+Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
+
 ## Table des Matières
 1. [Introduction](#introduction)
 2. [Fonctionnalités Clés](#features)
 3. [Technologies Utilisées](#tech)
-4. [Architecture Azure](#azure-arch)
-5. [Structure du Projet](#structure)
-6. [Installation Locale](#installation)
-7. [Déploiement Azure](#azure-deploy)
-8. [Captures d'Écran](#screenshots)
-9. [Améliorations Futures](#future)
+4. [Installation Locale](#installation)
+5. [Améliorations Futures](#future)
+6. [Démo](#demo)
 
 ---
 
@@ -160,3 +163,25 @@
    7. 🤖 **Modération IA**(Détection automatique de contenu inapproprié)
 
 <div align="right"> <a href="#top">⬆ Retour en haut</a> </div>
+
+---
+
+</div>
+
+## Démo<a name="demo"></a>
+
+<img src="image/1.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/2.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/3.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/4.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/5.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/6.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/7.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/8.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/9.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/10.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+
+<div align="right">
+⬆ Back to top
+
+</div>
