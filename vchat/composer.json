@@ -1,0 +1,19 @@
+{
+    "name": "pc/vchat",
+    "description": "projet webcam ESTD SM",
+    "authors": [
+        {
+            "name": "soukroumde"
+        }
+    ],
+    
+        "autoload": {
+            "psr-4": {
+                "MyApp\\": "core/classes"
+            }
+        },
+       
+    "require": {
+        "cboden/ratchet": "^0.4.3"
+    }
+}
