@@ -113,13 +113,6 @@
 ---
 
 
-
-<div align="right">
-  <a href="#top">⬆ Retour en haut</a>
-</div>
-
----
-
 ## Installation<a name="installation"></a>
 
 ### Prérequis
