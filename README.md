@@ -136,7 +136,7 @@
 
    - Lancer Apache et MySQL via XAMPP
 
-   - Accéder à http://localhost/est-social
+   - Accéder à http://localhost/INPT-Social-Media
 
 
 <div align="right"> <a href="#top">⬆ Retour en haut</a> </div>
