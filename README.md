@@ -124,7 +124,7 @@ Si le lien ne marche pas, considérez de copier lien et de le coller dans la bar
 ### Étapes d'installation
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/Alidou26//INPT-Social-Media.git
+   git clone https://github.com/Alidou26/INPT-Social-Media.git
    cd INPT-Social-Media
    ```
    
