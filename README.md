@@ -1,3 +1,6 @@
+<div align="left"> <a href="./README.md">🇫🇷 Français</a> | <a href="./README.en.md">🇬🇧 English</a> </div>
+
+---
 <a name="top"></a>
 
 <div align="center">
